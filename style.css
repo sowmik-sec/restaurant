@@ -1,0 +1,93 @@
+body {
+  font-family: "Ubuntu", sans-serif;
+  margin: 0px;
+}
+section {
+  display: flex;
+}
+
+.half-width {
+  width: 40%;
+  padding: 5% 5%;
+}
+
+img {
+  width: 100%;
+}
+
+#skip {
+  color: orange;
+}
+
+h1 {
+  font-size: 3rem;
+  color: rgb(80, 73, 73);
+}
+
+button {
+  background-image: linear-gradient(tomato, orange);
+  color: white;
+  font-size: 1.2rem;
+  border: 0px;
+  border-radius: 30px;
+  padding: 15px;
+}
+
+#first-para {
+  margin-bottom: 50px;
+}
+
+.first-section {
+  background-color: azure;
+}
+
+#second-section {
+  background-image: url("photos/7.png");
+  background-repeat: no-repeat;
+}
+
+#second-para {
+  margin-bottom: 70px;
+}
+
+.about-me {
+  padding: 150px 100px;
+}
+
+#second-heading {
+  font-size: 40px;
+  color: rgb(73, 66, 66);
+}
+
+.recipies {
+  text-align: center;
+  padding: 10px 25%;
+  font-size: 20px;
+  color: rgb(119, 103, 103);
+}
+
+#recipe-header {
+  font-size: 40px;
+}
+
+.recipe-img {
+  height: 300px;
+  width: 500px;
+  border-radius: 10px;
+}
+
+.recipe-feature {
+  padding: 30px;
+  box-shadow: 0px 0px 7px 7px rgb(223, 211, 211);
+  height: 430px;
+  width: 520px;
+  border-radius: 25px;
+}
+
+.feature-1 {
+  margin: 10px 0px 50px 100px;
+}
+
+.feature-2 {
+  margin: 10px 0px 50px 50px;
+}
