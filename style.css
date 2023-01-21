@@ -91,3 +91,29 @@ button {
 .feature-2 {
   margin: 10px 0px 50px 50px;
 }
+
+.social-media {
+  padding: 50px 80px;
+}
+
+.social-section {
+  height: 200px;
+  width: 1100px;
+  margin: 0px 0px 70px 100px;
+  padding-left: 100px;
+  box-shadow: 0 0 10px 10px rgb(243, 234, 234);
+  border-radius: 15px;
+}
+.social-media h2 {
+  font-weight: 700;
+}
+
+footer {
+  background-color: rgb(5, 122, 177);
+  text-align: center;
+  padding: 20px 20px 100px 0px;
+}
+
+#eat {
+  color: orange;
+}
